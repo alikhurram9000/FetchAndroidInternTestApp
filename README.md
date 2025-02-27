@@ -2,6 +2,10 @@
 
 FetchAndroidInternTestApp is an Android application that retrieves and displays a list of items from an API in a user-friendly, grouped, and expandable format. The app filters out items with blank or null names, groups them by `listId`, and sorts each group by item ID. It also features a "Surprise" button that triggers a bottom sheet dialog with an animation.
 
+## Demo Video Link
+
+https://drive.google.com/file/d/15IgvFiR4SdQsBBvN3oXEep2gCO9UJ4Ut/view?usp=sharing
+
 ## Features
 
 - **Data Retrieval:**  

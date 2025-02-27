@@ -23,7 +23,7 @@ https://drive.google.com/file/d/15IgvFiR4SdQsBBvN3oXEep2gCO9UJ4Ut/view?usp=shari
 - **Modern UI:**  
   Utilizes Material Components such as MaterialToolbar, FloatingActionButton, ChipGroup, RecyclerView, and ConstraintLayout for a polished, modern interface. Taking inspiration the "Fetch" colors.
 
-- **Addition Feature:**  
+- **Additional Feature:**  
   A "Floating Fetch Icon" button opens a bottom sheet dialog with an animation (using Lottie) to thank you for the opportunity.
 
 - **Dark Mode:**  

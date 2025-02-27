@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchAndroidInternTestApp</string>
+    <string name="fetch">Fetch</string>
+    <string name="welcome_text">Welcome to the Fetch intern test app</string>
+    <string name="creator_name">By Muhammad Ali Khurram</string>
+    <string name="instructions">Press the \"Fetch\" button to get data</string>
+</resources>

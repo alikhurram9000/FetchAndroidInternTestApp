@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:fontFamily">@font/gilroy_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="CustomChipTextAppearance" parent="TextAppearance.MaterialComponents.Chip">
+        <item name="android:fontFamily">@font/gilroy_regular</item>
+    </style>
+</resources>

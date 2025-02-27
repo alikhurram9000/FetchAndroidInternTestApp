@@ -21,7 +21,7 @@ https://drive.google.com/file/d/15IgvFiR4SdQsBBvN3oXEep2gCO9UJ4Ut/view?usp=shari
   Utilizes Material Components such as MaterialToolbar, FloatingActionButton, ChipGroup, RecyclerView, and ConstraintLayout for a polished, modern interface.
 
 - **Surprise Feature:**  
-  A "Click for surprise" button opens a bottom sheet dialog with an animation (using Lottie) to thank you for the opportunity.
+  A "Floating Fetch" button opens a bottom sheet dialog with an animation (using Lottie) to thank you for the opportunity.
 
 - **Dark Mode:**  
   Supports Dark Mode as well as Light Mode.

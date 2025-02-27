@@ -50,3 +50,16 @@ https://drive.google.com/file/d/15IgvFiR4SdQsBBvN3oXEep2gCO9UJ4Ut/view?usp=shari
 
    ```bash
    git clone https://github.com/yourusername/FetchAndroidInternTestApp.git
+
+2. **Open in Android Studio:**  
+   - Open Android Studio and select **"Open an existing Android Studio project"**.  
+   - Navigate to the cloned repository and open it.
+
+3. **Sync and Build:**  
+   - Allow Gradle to sync and build the project.
+
+4. **Run the App:**  
+   - Connect your device or start an emulator.  
+   - Click the **Run** button in Android Studio.
+
+

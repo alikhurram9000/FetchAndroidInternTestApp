@@ -8,6 +8,9 @@ https://drive.google.com/file/d/15IgvFiR4SdQsBBvN3oXEep2gCO9UJ4Ut/view?usp=shari
 
 ## Features
 
+- **Splash Screen:**
+  For a smooth welcome to the app.
+
 - **Data Retrieval:**  
   Fetches JSON data from [https://fetch-hiring.s3.amazonaws.com/hiring.json](https://fetch-hiring.s3.amazonaws.com/hiring.json) using Volley.
 
